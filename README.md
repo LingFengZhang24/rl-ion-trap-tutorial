@@ -20,6 +20,9 @@ integrated in the standard picture for the RL paradigm:
     *Reinforcement Learning for Ion Traps*.
 4.  Explore what else you can do with this environment when using 
     different agents, maybe even deep RL.
+    - [ ] Q-leraning
+    - [ ] Deep Q-learning
+    - [ ] Policy gradient
 5.  Find more ingenious ways of translating physics problems into RL 
     environments.
 
